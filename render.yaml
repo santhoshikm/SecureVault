@@ -22,4 +22,4 @@ services:
       - key: ENCRYPTION_KEY
         generateValue: true
       - key: CORS_ALLOWED_ORIGINS
-        value: https://securevault.vercel.app
+        value: https://secure-vault-green-five.vercel.app
